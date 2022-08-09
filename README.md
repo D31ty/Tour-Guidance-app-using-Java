@@ -1,5 +1,4 @@
-# Explict-Detection
+# Tour-Guidance-app-using-Java
 
-<h3>Problem Statement</h3>
+Tour Guidance app using Java is a app that provides guidelines to user about the tourism and tourist spots in each and every states of India. It provides classification about the each tourism based on religions and have many factors for filters.
 
-Data Crawlers to collect data on given Keywords from the web in areas of child and woman abuse, cyber bullying, pornography, etc.
